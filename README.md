@@ -23,6 +23,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xyvarzy&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
+<h3 align="left">Recently Played on Spotify:</h3>
+<div align="left">
+  <a href="https://open.spotify.com/user/31qvfewqbzvqxkwv6w6r2l6xm53m">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qvfewqbzvqxkwv6w6r2l6xm53m&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=xyvarzy&icon=0&color=0)](https://visitcount.itsvg.in)
 
